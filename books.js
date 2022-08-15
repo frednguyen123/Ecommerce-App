@@ -91,7 +91,7 @@ function filterBooks(event) {
 }
 
 setTimeout(() => {
-  // renderBooks();
+  renderBooks();
 });
 
 // FAKE DATA
